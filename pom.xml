@@ -14,7 +14,7 @@
     </properties>
 
     <build>
-        <sourceDirectory>.</sourceDirectory> <--- Add this line
+        <sourceDirectory>.</sourceDirectory>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
